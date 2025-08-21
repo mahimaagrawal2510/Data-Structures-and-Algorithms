@@ -23,5 +23,5 @@ function deepEqualJSON(obj1, obj2) {
     return false; 
 }
 
-// ✅ Tests
+
 deepEqualJSON({ y: 2, x: 1 }, { x: 1, y: 2 })

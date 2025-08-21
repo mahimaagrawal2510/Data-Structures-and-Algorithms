@@ -17,3 +17,5 @@ var lengthOfLongestSubstring = function(s) {
    }
    return maxLen;
 };
+
+lengthOfLongestSubstring("cadbzabcd")
